@@ -4993,7 +4993,7 @@ fieldset:disabled .btn {
 .card-group > .card {
   margin-bottom: 0.75rem;
 }
-
+/* MODIFICATION PERSONNEL */
 footer{
   background:#ccc;  
   width:100%;  
@@ -5028,7 +5028,7 @@ footer{
   -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
   box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
 }
-
+/* MODIFICATION PERSONNEL FIN */
 @media (min-width: 576px) {
   .card-group {
     display: -ms-flexbox;
